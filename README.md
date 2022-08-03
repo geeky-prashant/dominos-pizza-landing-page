@@ -9,7 +9,7 @@
 
   <h2 align="center">Domino's Pizza Landing Page</h2>
 
-  In this project, I have created Domino's Pizza Landing Page, The project is built using HTML & CSS.
+  In this project, I have created Domino's Pizza Landing Page with animated hover effect, The project is built using HTML & CSS.
 
   <a href="https://geeky-prashant.github.io/dominos-pizza-landing-page/"><strong>➥ Live Demo</strong></a>
 
